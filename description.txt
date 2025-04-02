@@ -1,1 +1,2 @@
-this is a budget management system
+this is a budget management system.
+it has options for income and expense tracking
